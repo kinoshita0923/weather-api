@@ -1,0 +1,9 @@
+p {
+    width: 600px;
+    font-size: 20px;
+    margin: 100px auto;
+    border: 1px solid #333;
+    padding: 16px;
+    letter-spacing: 5px;
+    transform: translateX(-10vw);
+}

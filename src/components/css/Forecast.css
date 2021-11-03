@@ -1,0 +1,11 @@
+.forecast-box {
+    margin: 70px auto;
+    width: 600px;
+    height: 250px;
+    position: relative;
+    transform: translateX(-10vw);
+}
+
+.forecast {
+    flex: 1;
+}
